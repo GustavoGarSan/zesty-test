@@ -1,0 +1,4 @@
+Execute docker compose up with the new yml file
+
+I can only implement display, find and stadistics because display plus can't be implemented without the correct image boundaries in db
+they appear in meters or degrees instead of pixels
